@@ -1,2 +1,3 @@
 # python
-Projetos Python
+Exercicios em Python
+
